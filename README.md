@@ -1,6 +1,6 @@
 ## Updated-Portfolio
 
-Link to portfolio:  https://faduma92.github.io/Updated-Portfolio/
+Link to portfolio:  
 
 ScreenShot of portfolio:
 ![portfolio](portfolio.png)
