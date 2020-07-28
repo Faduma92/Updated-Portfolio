@@ -3,7 +3,7 @@
 Link to portfolio:  
 
 ScreenShot of portfolio:
-![portfolio](portfolio.png)
+![portfolio](assets/portfolio.png)
 
 
 # Updated the following on Portfolio:
